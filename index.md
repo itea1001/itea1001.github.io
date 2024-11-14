@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+Hello. I am a second-year undergrad at the University of Chicago studying Computer Science, Mathematics, and Philosophy. I have been fortunate to work with Prof. [Chenhao Tan](https://chenhaot.com/) at the [Chicago Human+AI (CHAI) Lab](https://chicagohai.github.io/). I am broadly interested in natural language processing, more specifically on AI for science, hypothesis generation, compound AI systems, and interpretability. I am also interested in computational neuroscience and did some toy projects in high school.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Besides research, I enjoy reading about religions, playing the clarinet, cocktail mixing, and travelling.
