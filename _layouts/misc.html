@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<head>
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-</head>
-
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
   <div class="w3-container">
     <h2>Random Photos.</h2>
     <p>Iceland, 2024</p>
@@ -28,3 +28,10 @@ layout: default
       <img id="img01" style="width:100%">
     </div>
   </div>
+  
+  <script>
+  function onClick(element) {
+    document.getElementById("img01").src = element.src;
+    document.getElementById("modal01").style.display = "block";
+  }
+  </script>
