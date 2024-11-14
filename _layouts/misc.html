@@ -2,4 +2,29 @@
 layout: default
 ---
 
-Test
+<head>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+
+  <div class="w3-container">
+    <h2>Random Photos.</h2>
+    <p>Iceland, 2024</p>
+  </div>
+  
+  <div class="w3-row-padding">
+    <div class="w3-container w3-third">
+      <img src="{{ site.github.url }}/assets/photos/01.jpg" style="width:100%;cursor:pointer" 
+      onclick="onClick(this)" class="w3-hover-opacity">
+    </div>
+    <div class="w3-container w3-third">
+      <img src="{{ site.github.url }}/assets/photos/02.jpg" style="width:100%;cursor:pointer" 
+      onclick="onClick(this)" class="w3-hover-opacity">
+    </div>
+  </div>
+  
+  <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+    <div class="w3-modal-content w3-animate-zoom">
+      <img id="img01" style="width:100%">
+    </div>
+  </div>
