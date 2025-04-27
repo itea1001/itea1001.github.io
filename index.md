@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-Hello. I am a second-year undergrad at the University of Chicago studying Computer Science, Mathematics, and Philosophy. I have been fortunate to work with Prof. [Chenhao Tan](https://chenhaot.com/) at the [Chicago Human+AI (CHAI) Lab](https://chicagohai.github.io/). I am broadly interested in natural language processing, more specifically on AI for science, hypothesis generation, compound AI systems, and interpretability. I am also interested in computational neuroscience and did some toy projects in high school.
+Hello. I am a second-year undergrad at the University of Chicago studying Computer Science, Mathematics, and Philosophy. I have been fortunate to work with Prof. [Chenhao Tan](https://chenhaot.com/) at the [Chicago Human+AI (CHAI) Lab](https://chicagohai.github.io/). My research interests include LLM evaluation, hypothesis generation, and tool use.
 
-Besides research, I enjoy reading about religions, playing the clarinet, mixing cocktails, and traveling.
+Outside of research, I enjoy reading about religions, playing the clarinet, mixing cocktails, and traveling.
