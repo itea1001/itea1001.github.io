@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-Hello. I am a second-year undergrad at the University of Chicago studying Computer Science, Mathematics, and Philosophy. I have been fortunate to work with Prof. [Chenhao Tan](https://chenhaot.com/) at the [Chicago Human+AI (CHAI) Lab](https://chicagohai.github.io/). My research interests include LLM evaluation, hypothesis generation, and tool use.
+Hi! I'm a rising third-year undergrad at the University of Chicago studying Computer Science, Philosophy, and Mathematics. I have been fortunate to work with Prof. [Chenhao Tan](https://chenhaot.com/) at the [Chicago Human+AI (CHAI) Lab](https://chicagohai.github.io/). I'm also involved in the Berkeley Function Calling Leaderboard (BFCL) and other function-calling projects at the UCB Sky Computing Lab. My current research interests include LLM tool use, agent training, and hypothesis generation.
 
-Outside of research, I enjoy reading about religions, playing the clarinet, mixing cocktails, and traveling.
+Outside of research, I play the clarinet and am part of the Chamber Music Program at UChicago. I also enjoy learning about religious texts and rituals, currently interested in Eastern esotericism.
